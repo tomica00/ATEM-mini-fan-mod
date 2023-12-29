@@ -23,7 +23,9 @@ You need a T10 torx screwdriver.
 
 7. Isolate each wire with heatshrink or tape.
 
-8. Put everything together
+8. Plug in the cable back, make sure it's rotated correctly.
+
+9. Put everything together
 
 You should now hear the fan run at maximum speed!
 
