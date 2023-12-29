@@ -29,7 +29,7 @@ You need a T10 torx screwdriver.
 
 9. Put everything back together.
 
-You should now hear the fan run at maximum speed!
+You should now hear the fan run at maximum speed! It's not even loud, but it will make your ATEM mini less prone to overheating and make it last longer.
 
 ## Photos
 
