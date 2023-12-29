@@ -17,7 +17,7 @@ You need a T10 torx screwdriver.
 
 3. Carefully release the case clips by sliding a guitar pick along the edge.
 
-4. Carefully open the case, from the taller (thicker) side. There is a flex cable on the thinner side.
+4. Carefully open the case, from the taller (thicker) side. There is a flex cable on the thinner side. (In case the flex cable slips out, the connector opens by pulling upwards on the brown thingy. It should open like a door. Slide the cable back in and close the door.)
 
 5. Unplug the fan cable.
 
@@ -25,7 +25,7 @@ You need a T10 torx screwdriver.
 
 7. Isolate each wire with heatshrink or tape.
 
-8. Plug the cable back in, make sure it's rotated correctly.
+8. Plug the cable back in, make sure it's rotated correctly and don't force anything.
 
 9. Put everything back together.
 
