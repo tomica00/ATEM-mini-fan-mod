@@ -1,5 +1,5 @@
 # ATEM Mini Pro ISO fan mod
-Easy hack for ATEM mini switchers to make the fan always run at max speed. Probably also works for ATEM extreme.
+Easy hack for ATEM mini switchers to make the fan always run at max speed to prevent overheating. Probably also works for ATEM extreme.
 
 All you need to do is remove the blue and the yellow wire from the fan connector.
 
