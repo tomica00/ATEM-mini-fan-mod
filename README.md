@@ -29,15 +29,15 @@ You should now hear the fan run at maximum speed!
 
 ## Photos
 
-!(photos/IMG_20231229_215824.jpg)
+![](photos/IMG_20231229_215824.jpg)
 
-!(photos/IMG_20231229_215648.jpg)
+![](photos/IMG_20231229_215648.jpg)
 
-!(photos/IMG_20231229_212156_1.jpg)
+![](photos/IMG_20231229_212156_1.jpg)
 
-!(photos/IMG_20231229_212209.jpg)
+![](photos/IMG_20231229_212209.jpg)
 
-!(photos/IMG_20231229_212225.jpg)
+![](photos/IMG_20231229_212225.jpg)
 
-!(photos/IMG_20231229_214929.jpg)
+![](photos/IMG_20231229_214929.jpg)
 
