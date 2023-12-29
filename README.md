@@ -1,7 +1,9 @@
 # ATEM Mini Pro ISO fan mod
-Easy hack for ATEM mini switchers to make the fan always run at max speed.
+Easy hack for ATEM mini switchers to make the fan always run at max speed. Probably also works for ATEM extreme.
 
 All you need to do is cut the blue and the yellow wire from the fan connector.
+
+Be aware that this might void your warranty, but if you're careful enough I think it's possible to remove the label and the rubber pads without any damage. Of course, if you're gonna claim your warranty, you should reverse the mod.
 
 ## Tools
 
@@ -19,11 +21,11 @@ You need a T10 torx screwdriver.
 
 5. Unplug the fan cable.
 
-6. Cut the blue and the yellow wire or if you don't want to cut it, remove the pins from the connector by lifting the tiny plastic tongues.
+6. Cut the blue and the yellow wire or if you don't want to cut them, remove the pins from the connector by lifting the tiny plastic tongues on the connector and pulling each wire out. (Search how to remove inserts from XH connector.)
 
 7. Isolate each wire with heatshrink or tape.
 
-8. Plug in the cable back, make sure it's rotated correctly.
+8. Plug the cable back in, make sure it's rotated correctly.
 
 9. Put everything back together.
 
