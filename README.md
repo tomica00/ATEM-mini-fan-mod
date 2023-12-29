@@ -17,7 +17,7 @@ You need a T10 torx screwdriver.
 
 3. Carefully release the case clips by sliding a guitar pick along the edge.
 
-4. Carefully open the case, from the taller (thicker) side. There is a flex cable on the thinner side. (In case the flex cable slips out, the connector opens by pulling upwards on the brown thingy. It should open like a door. Slide the cable back in and close the door.)
+4. Carefully open the case, from the taller (thicker) side. There is a flex cable on the thinner side. (In case the flex cable slips out, the connector opens by pulling upwards on the black thingy - see photos. It should open like a door. Slide the cable back in and close the door.)
 
 5. Unplug the fan cable.
 
@@ -42,6 +42,8 @@ You should now hear the fan run at maximum speed! It's not even loud and it will
 ![](photos/IMG_20231229_212209.jpg)
 
 ![](photos/IMG_20231229_212225.jpg)
+
+![](photos/IMG_20231229_212006.jpg)
 
 ![](photos/IMG_20231229_214929.jpg)
 
