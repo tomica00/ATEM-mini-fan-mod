@@ -23,6 +23,8 @@ You need a T10 torx screwdriver.
 
 6. Cut the blue and the yellow wire or if you don't want to cut them, remove the pins from the connector by lifting the tiny plastic tongues on the connector and pulling each wire out. (Search how to remove inserts from XH connector.)
 
+UPDATE: Okay it turns out the blue wire is the PWM control, that one needs to be removed. The yellow wire is the tachometer signal (it tells the processor if the fan is running at the correct speed). Maybe leave the yellow wire connected? I haven't tested it yet.
+
 7. Isolate each wire with heatshrink or tape.
 
 8. Plug the cable back in, make sure it's rotated correctly and don't force anything.
