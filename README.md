@@ -34,6 +34,8 @@ You should now hear the fan run at maximum speed! It's not even loud and it will
 
 ## Photos
 
+ATEM Mini Pro ISO:
+
 ![](photos/IMG_20231229_215824.jpg)
 
 ![](photos/IMG_20231229_215648.jpg)
@@ -48,3 +50,12 @@ You should now hear the fan run at maximum speed! It's not even loud and it will
 
 ![](photos/IMG_20231229_214929.jpg)
 
+ATEM Mini Extreme:
+
+![Inside ATEM Mini Extreme](photos/IMG_20240119_163613.jpg)
+
+![Flex cable connector](photos/IMG_20240119_163641.jpg)
+
+![The fan connector](photos/IMG_20240119_163705_edit_452583718897602.jpg)
+
+![Insulate the wire with heatshrink](photos/IMG_20240119_165143_edit_452576622529374.jpg)
