@@ -48,6 +48,8 @@ ATEM Mini Pro ISO:
 
 ![](photos/IMG_20231229_212006.jpg)
 
+Remove just the blue wire. Yellow wire can stay.
+
 ![](photos/IMG_20231229_214929.jpg)
 
 ATEM Mini Extreme:
