@@ -1,5 +1,5 @@
-# ATEM Mini Pro ISO fan mod
-Easy hack for ATEM mini switchers to make the fan always run at max speed to prevent overheating. Probably also works for ATEM extreme.
+# ATEM Mini fan mod
+Easy hack for ATEM Mini and ATEM Mini Extreme switchers to make the fan always run at max speed to prevent overheating.
 
 All you need to do is remove the blue and the yellow wire from the fan connector.
 
@@ -13,7 +13,7 @@ You need a T10 torx screwdriver.
 
 1. Remove the 4 screws that are located under the rubber pads, in the corners.
 
-2. Remove the center screw under the black label that says "Blackmagicdesign".
+2. Remove the center screw under the black label that says "Blackmagicdesign". (The Extreme model doesn't have the screw under the label).
 
 3. Carefully release the case clips by sliding a guitar pick along the edge.
 
@@ -21,17 +21,16 @@ You need a T10 torx screwdriver.
 
 5. Unplug the fan cable.
 
-6. Cut the blue and the yellow wire or if you don't want to cut them, remove the pins from the connector by lifting the tiny plastic tongues on the connector and pulling each wire out. (Search how to remove inserts from XH connector.)
+6. Cut the blue wire or if you don't want to cut it, remove the pins from the connector by lifting the tiny plastic tongue on the connector and pull the wire out. (Search how to remove inserts from XH connector.)
+The blue wire is the PWM control. The yellow wire is the tachometer signal (it tells the processor if the fan is running at the correct speed). By disconnecting the PWM, the fan runs at full speed by default.
 
-UPDATE: Okay it turns out the blue wire is the PWM control, that one needs to be removed. The yellow wire is the tachometer signal (it tells the processor if the fan is running at the correct speed). Maybe leave the yellow wire connected? I haven't tested it yet.
+7. Isolate the wire with heatshrink or tape.
 
-7. Isolate each wire with heatshrink or tape.
-
-8. Plug the cable back in, make sure it's rotated correctly and don't force anything.
+8. Plug the cable back in, make sure it's rotated correctly and don't force anything. Also plug the flex cable back in if you unplugged it earlier.
 
 9. Put everything back together.
 
-You should now hear the fan run at maximum speed! It's not even loud and it will make your ATEM mini less prone to overheating and make it last longer.
+You should now hear the fan run at maximum speed! It's not even loud and it will make your ATEM Mini less prone to overheating and make it last longer.
 
 ## Photos
 
