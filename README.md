@@ -1,7 +1,7 @@
 # ATEM Mini fan mod
 Easy hack for ATEM Mini and ATEM Mini Extreme switchers to make the fan always run at max speed to prevent overheating.
 
-All you need to do is remove the blue and the yellow wire from the fan connector.
+All you need to do is remove the blue wire from the fan connector.
 
 Be aware that this might void your warranty, but if you're careful enough I think it's possible to remove the label and the rubber pads without any damage. Of course, if you're gonna claim your warranty, you should reverse the mod.
 
@@ -21,7 +21,7 @@ You need a T10 torx screwdriver.
 
 5. Unplug the fan cable.
 
-6. Cut the blue wire or if you don't want to cut it, remove the pins from the connector by lifting the tiny plastic tongue on the connector and pull the wire out. (Search how to remove inserts from XH connector.)
+6. Cut the blue wire or if you don't want to cut it, remove the pins from the connector by lifting the tiny plastic tab on the connector and pull the wire out. (Search how to remove inserts from XH connector.)
 The blue wire is the PWM control. The yellow wire is the tachometer signal (it tells the processor if the fan is running at the correct speed). By disconnecting the PWM, the fan runs at full speed by default.
 
 7. Isolate the wire with heatshrink or tape.
